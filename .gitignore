@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+phishing.db
+.env
+.venv/
+venv/
